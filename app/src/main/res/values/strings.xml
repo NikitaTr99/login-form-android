@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OAuth</string>
+    <string name="f_pass"><u>Забыли пароль?</u></string>
 </resources>
