@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">OAuth</string>
-    <string name="f_pass"><u>Забыли пароль?</u></string>
+    <string name="app_name">Login</string>
+    <string name="f_pass"><u>Forgot your password?</u></string>
 </resources>
