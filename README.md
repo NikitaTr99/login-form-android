@@ -1,5 +1,4 @@
-# Login form android
-
-A simple login form for a mobile app was developed as a practice assignment at my college. The app uses Material Design.
+# Форма входа android
+Простая форма входа для мобильного приложения. Была разработана по учебному заданию.
 
 ![Image](/images/login.png)
